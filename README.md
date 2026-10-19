@@ -1,7 +1,25 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E2038,100:4A78C4&height=140&section=header"/>
+</p>
+
+<p align="center">
+  <img src="https://images.weserv.nl/?url=github.com/Akash8356.png&w=220&h=220&fit=cover&mask=circle" width="160" alt="Akash Prajapati"/>
+</p>
+
 <h1 align="center">Hi, I'm Akash Prajapati 👋</h1>
 
 <p align="center">
-  <b>Backend Software Engineer • Python • Django • FastAPI • AI Agents • Distributed Systems</b>
+  <a href="https://github.com/Akash8356">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=4A78C4&center=true&vCenter=true&width=760&lines=Forward+Deployed+Engineer;AI+Backend+Engineer+%E2%80%94+LLM+%26+Agent+Systems;Python+%7C+Django+%7C+FastAPI+%7C+Kafka;Building+scalable+backends+and+AI+agents" alt="Typing SVG"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>Forward Deployed Engineer • AI Backend Engineer — LLM & Agent Systems</b>
+</p>
+
+<p align="center">
+  Python • Django • FastAPI • Kafka • LangChain • LangGraph • Distributed Systems
 </p>
 
 <p align="center">
@@ -22,6 +40,34 @@ Building scalable backend systems and AI agents for enterprise Automotive & E-Co
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 </p>
+
+<p align="center">
+  <a href="#-download-my-resume">Resume</a> •
+  <a href="#-about-me">About</a> •
+  <a href="#-professional-experience">Experience</a> •
+  <a href="#%EF%B8%8F-tech-stack">Tech Stack</a> •
+  <a href="#-publication">Publication</a> •
+  <a href="#-lets-connect">Contact</a>
+</p>
+
+---
+
+# 👋 Welcome
+
+Welcome to my corner of GitHub! I'm Akash, a backend engineer from Mumbai with **3.4+ years** of experience shipping production systems for enterprise automotive and e-commerce platforms.
+
+Lately I've been pairing that backend foundation with **LLMs and AI agents**, building tools like a vulnerability-scanning agent and a voice-enabled translation assistant. I like owning problems end to end, from requirements and design through production support, so if you're building something ambitious, I'd love to talk.
+
+> [!NOTE]
+> 🔭 **Open to Backend, AI / LLM, and Forward Deployed Engineering roles.** Reach me at **akash.p8869@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/akash-prajapati-878803210/).
+
+| | |
+|---|---|
+| 📍 **Based in** | Mumbai, Maharashtra, India |
+| 🎓 **Education** | B.E. Computer Engineering, University of Mumbai (CGPA 8.88/10) |
+| 💼 **Experience** | 3.4+ years in backend engineering |
+| 🧰 **Core stack** | Python, Django, DRF, FastAPI, PostgreSQL, Redis, Kafka, Celery, Docker, Keycloak |
+| 🤖 **AI focus** | LLM applications, AI agents, LangChain, LangGraph |
 
 ---
 
@@ -68,6 +114,18 @@ I enjoy solving complex backend challenges involving:
 - ☁️ AWS Cloud
 - 🏗️ Advanced System Design
 - ⚡ Cloud-Native Backend Architecture
+
+---
+
+# 🧩 Featured Work
+
+| | What I built | Why it matters |
+|---|---|---|
+| 🛡️ **Vidura** | An AI agent that scans code repositories and flags security vulnerabilities | Cuts manual review effort |
+| 🗣️ **Bhasasetu** | A translation assistant with voice and talking capability | Multilingual, spoken interactions for platform users |
+| 🔎 **Smart Search** | An AI-assisted product search for an e-commerce platform | Better product discovery across the catalog |
+| 🚚 **Shiprocket Integration** | Delivery-partner integration led end to end: order handoff, shipment tracking, status callbacks | Reliable fulfilment flow from order to delivery |
+| 🚛 **Fleet & Quality Platforms** | 250+ REST APIs across Fleet Management, IQMS, Audit Management, and a mobile app | Enterprise-scale systems in production |
 
 ---
 
@@ -260,4 +318,8 @@ Major Contributions:
 
 <p align="center">
 <i>"Building scalable systems today while continuously learning to design the distributed systems of tomorrow."</i> 🚀
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E2038,100:4A78C4&height=120&section=footer"/>
 </p>
