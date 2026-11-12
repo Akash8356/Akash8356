@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E2038,100:4A78C4&height=140&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:4338CA,100:6366F1&height=160&section=header&text=Akash%20Prajapati&fontSize=40&fontColor=ffffff&fontAlignY=55&desc=Python%20Backend%20Engineer%20and%20Applied%20AI%20Systems&descAlignY=75&descSize=16" alt="Akash Prajapati"/>
 </p>
 
 <p align="center">
@@ -10,12 +10,12 @@
 
 <p align="center">
   <a href="https://github.com/Akash8356">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=4A78C4&center=true&vCenter=true&width=760&lines=AI+Backend+Engineer;LLMs%2C+RAG+and+AI+Agents;Python+%7C+Django+%7C+FastAPI+%7C+Kafka;LangChain+%26+LangGraph" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&width=760&lines=Python+Backend+Engineer;Applied+AI+%26+LLM+Systems;LLMs%2C+RAG+%26+LangGraph;Python+%7C+Django+%7C+FastAPI+%7C+Kafka" alt="Typing SVG"/>
   </a>
 </p>
 
 <p align="center">
-  <b>AI Backend Engineer | Python, Django, FastAPI, REST APIs | LLMs, RAG, AI Agents, LangChain & LangGraph | Kafka, PostgreSQL, Microservices, Docker</b>
+  <b>Python Backend Engineer | Applied AI &amp; LLM Systems | Django, FastAPI, REST APIs | LLMs, RAG, AI Agents, LangChain &amp; LangGraph | Kafka, PostgreSQL, Microservices, Docker</b>
 </p>
 
 <p align="center">
@@ -23,18 +23,21 @@
 </p>
 
 <p align="center">
-Building scalable backend systems and AI-powered products for enterprise Automotive & E-Commerce platforms.
+Building scalable backend systems and AI-powered products for enterprise Automotive &amp; E-Commerce platforms.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/akash-prajapati-878803210/">
+  <a href="https://www.linkedin.com/in/akash-prajapati-backend-ai/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:akash.p8869@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://docs.google.com/document/d/1TGYbYLCieU42-mldJk0_ROr0ZZ-8T44A/edit">
+  <a href="https://akash8356.github.io/akash-portfolio/#resumes">
     <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white"/>
+  </a>
+  <a href="https://akash8356.github.io/akash-portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/7faxlgxudd">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
@@ -42,9 +45,11 @@ Building scalable backend systems and AI-powered products for enterprise Automot
 </p>
 
 <p align="center">
-  <a href="#-about-me">About</a> •
+  <a href="#-professional-summary">Summary</a> •
+  <a href="#%EF%B8%8F-technical-skills">Skills</a> •
   <a href="#-professional-experience">Experience</a> •
-  <a href="#%EF%B8%8F-tech-stack">Tech Stack</a> •
+  <a href="#-education">Education</a> •
+  <a href="#-achievements">Achievements</a> •
   <a href="#-publication">Publication</a> •
   <a href="#-lets-connect">Contact</a>
 </p>
@@ -53,26 +58,28 @@ Building scalable backend systems and AI-powered products for enterprise Automot
 
 # 👋 Welcome
 
-Welcome to my corner of GitHub! I'm Akash, an AI backend engineer from Mumbai with **3.4+ years** of experience building production systems for enterprise automotive and e-commerce platforms.
+Welcome to my corner of GitHub! I'm Akash, a **Python backend engineer** from Mumbai with **3.4+ years** of experience building production systems for enterprise automotive and e-commerce platforms.
 
-Lately I've been pairing that backend foundation with **LLMs**, building a multilingual voice assistant, image-based product search, and AI-assisted code analysis. I work directly with clients to understand what they need, build it, ship it to production, and monitor it afterwards. If you're building something ambitious, I'd love to talk.
+Lately I've been pairing that backend foundation with **LLMs**, building a Hindi voice-enabled AI assistant, image &amp; text product search, and AI-assisted code analysis. I work directly with clients to understand what they need, build it, ship it to production, and monitor it afterwards. If you're building something ambitious, I'd love to talk.
 
 > [!NOTE]
-> 🔭 **Open to AI Backend Engineer roles.** Reach me at **akash.p8869@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/akash-prajapati-878803210/).
+> 🔭 **Open to Python Backend / Applied AI / GenAI Engineer roles.** Reach me at **akash.p8869@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/akash-prajapati-backend-ai/).
 
 | | |
 |---|---|
 | 📍 **Based in** | Mumbai, Maharashtra, India |
-| 🎓 **Education** | B.E. Computer Engineering, Smt. Indira Gandhi Engineering College, University of Mumbai (CGPA 8.88/10) |
+| 📞 **Phone** | +91 83568 86969 |
+| 📧 **Email** | akash.p8869@gmail.com |
+| 🎓 **Education** | B.E. Computer Engineering, University of Mumbai (CGPA 8.88/10) |
 | 💼 **Experience** | 3.4+ years in backend engineering |
 | 🧰 **Core stack** | Python, Django, DRF, FastAPI, PostgreSQL, Redis, Kafka, Celery, Docker, Keycloak |
-| 🤖 **Applied AI** | OpenAI GPT-4, Whisper, RAG, semantic retrieval, image embeddings, LangChain, LangGraph |
+| 🤖 **Applied AI** | OpenAI GPT-4, Whisper, RAG, semantic retrieval, image embeddings, LangChain, LangGraph, LangSmith |
 
 ---
 
-# 💼 About Me
+# 📝 Professional Summary
 
-Python Backend Engineer with **3.4+ years of experience** building scalable Python/Django systems, production REST APIs, and integrations for **Automotive** and **E-Commerce** platforms. Hands-on with **LLM-powered voice assistants, semantic retrieval pipelines, image-based product search, and AI-assisted code analysis**, on top of a strong foundation in backend architecture, asynchronous processing, authentication, database optimization, and production systems.
+Python Backend Engineer with **3.4+ years of experience** developing scalable backend systems, REST APIs, and microservices using **Python, Django, DRF, and FastAPI**. Experienced in **database optimization, asynchronous processing, and enterprise integrations**, with hands-on exposure to **Applied AI, RAG pipelines, LLM integrations, and semantic search** across automotive, e-commerce, and AI-driven applications.
 
 ### 🧭 How I work
 
@@ -85,21 +92,20 @@ Python Backend Engineer with **3.4+ years of experience** building scalable Pyth
 
 - 🚀 REST API Development
 - 🏗️ Backend Architecture
-- 🔐 Authentication & Authorization (JWT, OAuth2, Keycloak)
+- 🔐 Authentication &amp; Authorization (JWT, OAuth2, Keycloak)
 - ⚡ Event-Driven Architecture
 - 📦 Asynchronous Processing
-- 🗄️ Database Design & Query Optimization
+- 🗄️ Database Design &amp; Query Optimization
 - ☁️ Production Deployments
-- 🤖 LLM Applications, RAG & Semantic Search
-- 📱 Cross-functional React Native Development
+- 🤖 LLM Applications, RAG &amp; Semantic Search
 
 ---
 
 # 🚀 Current Focus
 
-🔭 Open to **AI Backend Engineer** roles
+🔭 Open to **Python Backend / Applied AI / GenAI Engineer** roles
 
-🏢 Previously built enterprise commerce and AI solutions for Tata Motors and Whirlpool
+🏢 Previously delivered enterprise commerce and AI solutions for automotive and consumer-appliance clients
 
 🌱 Currently learning
 
@@ -110,15 +116,19 @@ Python Backend Engineer with **3.4+ years of experience** building scalable Pyth
 
 ---
 
-# 🧩 Featured Work
+# 🧩 Featured Projects — Quick Scan
 
-| | What I built | Highlights |
+| Project | Domain | Highlight |
 |---|---|---|
-| 🗣️ **Bhasasetu** | A multilingual, voice-enabled AI assistant | Whisper (speech-to-text), Sentence Transformers + ChromaDB (semantic retrieval), OpenAI GPT-4 (responses), ElevenLabs (text-to-speech); evaluated across ~5,000 test cases with an evaluation score of ~87% |
-| 🔎 **Smart Search** | Image-based product search for a vehicle-parts e-commerce platform | Image embeddings + vector similarity search returning the top five matches; also supports part-number, part-name, category and voice search |
-| 🛡️ **Vidura** | AI-assisted Git repository change and security analysis | LLM workflows over commit diffs and code context for change summaries and potential security issues, with severity for developer review |
-| 🚚 **Shiprocket Integration** | Delivery-partner integration | Order handoff, shipment tracking, status callbacks |
-| 🚛 **Fleet & Quality Platforms** | Fleet Management, IQMS, Audit Management, FleetEdge mobile app | 50+ REST APIs and integrations across four enterprise systems |
+| 🗣️ **Voice-Enabled RAG Assistant** | Applied AI · RAG | End-to-end RAG + LangGraph; ~5,000 test cases at ~87% |
+| 🔎 **Image &amp; Text Smart Search** | Applied AI · Search | Separate image/text embedding pipelines; top-5 results |
+| 🛒 **Commercial Vehicle E-Commerce** | Backend · E-Commerce | 40+ REST APIs; 1,000+ orders/day |
+| 🛍️ **Passenger Vehicle E-Commerce** | Backend · Auth | Keycloak/JWT/OAuth 2.0 |
+| 🚛 **IoT Fleet Management** | Backend · IoT | ~18-microservice platform; 20–30% perf gain |
+| 🏭 **Quality Management System** | Backend · Manufacturing | 50+ REST APIs + Kafka consumer |
+| 🛡️ **Git Security Analysis (AI)** | Applied AI · DevSecOps | Independent build; GitHub API + OpenAI workflows |
+
+> Full details with all 25 bullet points appear under [Professional Experience](#-professional-experience).
 
 ---
 
@@ -126,112 +136,145 @@ Python Backend Engineer with **3.4+ years of experience** building scalable Pyth
 
 - 🏅 **[Shining Star Award](https://lnkd.in/p/dYPYi_Pu)** for outstanding technical contributions.
 - ⭐ **Bar Raiser**, recognized for problem-solving, technical guidance, and supporting team members.
-- 🗣️ Built a multilingual voice assistant evaluated across ~5,000 test cases (~87% evaluation score).
-- 🔎 Developed image-based Smart Search using embeddings and vector similarity.
+- 🗣️ Built a Hindi voice-enabled AI assistant evaluated across ~5,000 test cases (~87% average score).
+- 🔎 Developed Smart Search using separate image and text embedding pipelines with vector similarity.
 - 🔄 Built asynchronous processing pipelines using **Celery + Redis** and **Kafka**.
-- 🔐 Implemented secure authentication using **Keycloak, JWT & OAuth2**.
-- ⚡ Optimized database access with Django ORM techniques (`select_related`, `prefetch_related`, annotations).
+- 🔐 Implemented secure authentication using **Keycloak, JWT &amp; OAuth 2.0**.
+- ⚡ Optimized database access with Django ORM techniques (`select_related`, `prefetch_related`, Subquery, annotations).
 
 ---
 
 # 💼 Professional Experience
 
-## [Vishleshan AI Solutions](https://vishleshan.ai/)
-**Software Engineer** *(Nov 2025 – Sep 2026)* · Mumbai, India
+## Vishleshan Software Solutions Pvt. Ltd. — Software Developer
+**25 Nov 2025 – 24 Sep 2026** · Mumbai, India
 
-### Whirlpool Client: Bhasasetu | Multilingual Voice Assistant
+### 🛒 Commercial Vehicle Spare Parts E-Commerce
 
-- 🗣️ Contributed to a multilingual, voice-enabled AI assistant designed to support natural interactions across languages.
-- 🔗 Integrated Whisper for speech-to-text, Sentence Transformers and ChromaDB for semantic retrieval, OpenAI GPT-4 for response generation, and ElevenLabs for text-to-speech.
-- 📊 Evaluated agent performance across approximately 5,000 test cases, reaching an evaluation score of around 87%.
+- Developed **40+ REST APIs** using Python, Django, and DRF for core e-commerce workflows on a platform handling **1,000+ orders daily**.
+- Implemented **Smart Search** using **separate image and text embedding pipelines**, enabling product discovery through images, part numbers, names, categories, and voice queries, with **top-5 similarity-based results**.
+- Developed **FastAPI notification services** integrated with Apache Kafka, supporting approximately **1,000–10,000 notifications daily**.
+- Implemented **Redis caching** for Order History APIs and optimized Django ORM queries to reduce repeated database access and improve response times.
+- Built **asynchronous report and export workflows** using Celery and Redis, integrating **AWS S3** for file storage and secure presigned downloads.
+- Developed **DSR/MSR (Field Representative)** business workflows and integrated **Shiprocket** for shipment creation and tracking, and **SAP Grow** with internal backend services.
 
-### Tata Motors Client: Edukaan & PV Shopee | Enterprise Vehicle Parts E-Commerce
+### 🗣️ Hindi Voice-Enabled AI Assistant
 
-- 🔎 Developed Smart Search using image embeddings and vector similarity search to retrieve the top five matching products from the vehicle-parts catalog.
-- 🧭 Supported product discovery through image, part-number, part-name, category, and voice-based search.
-- ⚡ Built FastAPI notification services integrated with Kafka for asynchronous event processing.
-- 🔐 Implemented authentication and OTP verification using Keycloak, JWT, and OAuth 2.0.
-- 📦 Developed Celery and Redis pipelines for reports, notifications, and scheduled jobs; improved Order History retrieval through Redis caching.
-- 🧾 Built DSR/MSR workflows covering target visits, mechanic feedback, and order generation.
-- 🚚 Integrated Shiprocket for order handoff, shipment tracking, and status callbacks; connected SAP Grow APIs with internal services.
-- 🛠️ Contributed to database design, Django ORM/query optimization, AWS S3 integration, Grafana monitoring, and production support.
+- Developed backend APIs and an end-to-end **RAG pipeline** using Python and Django to deliver context-grounded responses from a product knowledge base.
+- Implemented **document processing, recursive chunking (500 words per chunk, 20-word overlap), Sentence Transformers embeddings, and ChromaDB vector storage** for approximately **100–500 knowledge-base items**.
+- Implemented **semantic retrieval using cosine similarity and a dynamic threshold**, orchestrating retrieval and response generation through **LangGraph workflows** with conditional routing, query rephrasing, and fallback handling; integrated **Whisper, GPT-4, and ElevenLabs** for speech-to-text, response generation, and text-to-speech.
+- Implemented **LLM safety controls** including **PII redaction, structured output validation, and prompt injection detection**; integrated **LangSmith** for execution tracing, debugging, and monitoring workflow latency and token usage. Evaluated response quality across **~5,000 test cases** using expected answers and LLM-based evaluation, achieving an average score of **87%**.
 
----
+### 🛍️ Passenger Vehicle Spare Parts E-Commerce
 
-## [Sankey Solutions](https://sankeysolutions.com/)
-**Solution Analyst** *(Jun 2023 – Nov 2025)* · Thane, Maharashtra, India
-
-### Vidura: Git Repository Change & Security Analysis
-
-- 🛡️ Contributed to an AI-assisted code analysis solution that examines Git commit diffs and surrounding code context.
-- 🤖 Integrated LLM-based workflows for code-change summarization and potential security issue analysis.
-- 📋 Structured analysis findings to communicate issue descriptions and severity for developer review.
-
-### Tata Motors Client: Fleet Management, IQMS, Audit Management & FleetEdge
-
-- 🚀 Contributed to 50+ REST APIs and third-party integrations across four enterprise automotive systems.
-- 🚛 Developed backend services for fleet management using Django and PostgreSQL within a microservices architecture, supporting features such as Mileage Saarathi and Driving Scorecard.
-- 🏭 Implemented Kafka-based manufacturing inspection workflows for chassis tracking, defect management, and rework within IQMS.
-- 📋 Developed audit risk assessment and audit frequency workflows, along with supporting REST APIs.
-- ⚡ Optimized database access using Django ORM techniques, including `select_related`, `prefetch_related`, and annotations.
-- 📱 Developed React Native features for mileage tracking, driving scores, inspections, maps, and dashboards; contributed to upgrading React Native from 0.68.1 to 0.70.1.
+- Integrated **Keycloak** authentication APIs for login and token-generation workflows using **JWT** and **OAuth 2.0**.
+- Implemented **CAPTCHA validation** and supported backend maintenance and production issue resolution.
 
 ---
 
-# 🛠️ Tech Stack
+## Sankey Solutions — Solution Analyst
+**1 Jun 2023 – 14 Nov 2025** · Thane, Maharashtra, India
 
-### 🤖 Applied AI & LLMs
+### 🚛 IoT-Based Fleet Management Platform
 
-![OpenAI](https://img.shields.io/badge/OpenAI%20GPT--4-412991?style=flat-square&logo=openai&logoColor=white)
-![Whisper](https://img.shields.io/badge/Whisper-412991?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-Semantic%20Retrieval-blue?style=flat-square)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+- Developed backend features across **vehicle, wrapper, subscription, and payment** services within an **approximately 18-microservice fleet management platform** using Python, Django, and PostgreSQL.
+- Built the **Vehicle Day-wise Tracker backend end-to-end** — processing historical GPS coordinates, calculating distance using the **Haversine formula**, identifying trips and stops, and preparing route data for Google Maps visualization.
+- Designed and optimized backend services, improving **API performance by 20–30%** by identifying and resolving **N+1 query issues** and optimizing database access using **Django ORM Subquery** and related query optimizations.
+- Implemented **role- and subscription-based access controls**, managing Fleet Owner and Fleet Manager permissions, site-level vehicle visibility, and plan-based access to vehicle data and fleet management modules.
+- Developed **Mileage Saarathi APIs** and business logic to process driving parameters such as speed, idling, harsh acceleration, braking, and gear shifting/RPM to generate **mileage-improvement guidance**.
+- Implemented **historical telemetry synchronization** through **Sahaj APIs** using 30-minute cron scheduling, checkpoint-based incremental fetching, backlog recovery, and **PostgreSQL upserts** keyed by VIN and timestamp.
+- Integrated **CCAvenue payment gateway** with request encryption, response decryption, payment callbacks, status updates, subscription synchronization, and Redis cache updates; also developed **vehicle subscription workflows** for plan purchases, upgrades, renewals, and expiry.
+
+### 🏭 Intelligent Quality Management System
+
+- Developed the **User Portal backend** using Python, Django, and PostgreSQL — database design and implementation of **50+ REST APIs** to digitize paper-based vehicle assembly-line quality inspections.
+- Implemented **Quality Maker and Quality Checker** workflows for inspection recording, defect reporting, corrective actions, and verification across assembly-line operations.
+- Developed an **Apache Kafka consumer** to receive VIN and vehicle information from manufacturing sites and persist incoming data in PostgreSQL; integrated **Swagger/OpenAPI** documentation for API testing and frontend coordination.
+
+### 🛡️ AI-Assisted Git Repository Change &amp; Security Analysis
+
+- **Independently developed** an AI-assisted code analysis solution integrating **GitHub APIs** to retrieve commit differences and surrounding code context.
+- Implemented **separate OpenAI API workflows** for code-change summarization and potential security vulnerability detection.
+- Developed checks for exposed **API keys, access tokens, passwords, email credentials, and AWS access details**, generating **structured reports with issue descriptions and severity levels**.
 
 ---
 
-### 💻 Languages & Backend
+# 🛠️ Technical Skills
+
+**Programming &amp; Backend:** Python, SQL, Django, Django REST Framework, FastAPI, REST APIs, Microservices
+
+**Applied AI &amp; GenAI:** LLMs, RAG, Prompt Engineering, LangChain, LangGraph, Tool Calling, OpenAI APIs, Semantic Retrieval, Image Embeddings, Sentence Transformers, ChromaDB, Whisper, ElevenLabs, Guardrails, LLM Harnessing, LLM Evaluation, LangSmith
+
+**Databases &amp; Messaging:** PostgreSQL, Redis, Django ORM, Celery, Apache Kafka
+
+**Authentication &amp; Integrations:** Keycloak, JWT, OAuth 2.0, OTP Verification, Payment Gateway Integration, Third-Party API Integration, RBAC
+
+**Concepts:** OOP, Database Design, Query Optimization, Agile Methodology, System Design
+
+**Cloud &amp; Tools:** AWS (S3, RDS, EC2, ELB), Docker, Kubernetes (Fundamentals), Grafana, Git, GitHub, Swagger/OpenAPI
+
+---
+
+### 🔧 Skill Badges
+
+**Backend:**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Django REST Framework](https://img.shields.io/badge/DRF-red?style=flat-square)
+![DRF](https://img.shields.io/badge/DRF-A30000?style=flat-square)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-4338CA?style=flat-square)
 
----
+**Applied AI &amp; GenAI:**
 
-### 🗄️ Databases & Messaging
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-6366F1?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square)
+![Whisper](https://img.shields.io/badge/Whisper-412991?style=flat-square)
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=flat-square)
+![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=flat-square)
+
+**Databases &amp; Messaging:**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
 
----
-
-### 🔐 Security & Cloud
+**Auth &amp; Integrations:**
 
 ![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white)
-![AWS S3](https://img.shields.io/badge/AWS%20S3-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![OAuth 2.0](https://img.shields.io/badge/OAuth%202.0-3C3C3D?style=flat-square)
+![RBAC](https://img.shields.io/badge/RBAC-4F46E5?style=flat-square)
+
+**Cloud &amp; Tools:**
+
+![AWS](https://img.shields.io/badge/AWS%20S3%20%7C%20RDS%20%7C%20EC2%20%7C%20ELB-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-Fundamentals-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-
----
-
-### 🧰 Tools & Engineering
-
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![System Design](https://img.shields.io/badge/System%20Design-4A78C4?style=flat-square)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Swagger](https://img.shields.io/badge/Swagger%2FOpenAPI-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 
 ---
 
-# 📚 Publication
+# 🎓 Education
 
-- [**Crop Protection Against Birds Using Deep Learning and IoT**](https://www.irjet.net/archives/V10/i4/IRJET-V10I4176.pdf), IRJET (International Research Journal of Engineering and Technology), Vol. 10, Issue 4, April 2023.
+**Bachelor of Engineering — Computer Engineering**
+Smt. Indira Gandhi Engineering College, University of Mumbai
+Aug 2019 – Jun 2023 · **CGPA: 8.88/10**
+
+---
+
+# 🏅 Achievements
+
+- **[Shining Star](https://lnkd.in/p/dYPYi_Pu):** Recognized for outstanding technical contributions.
+- **Bar Raiser:** Recognized for problem-solving, technical guidance, and supporting team members.
 
 ---
 
@@ -242,12 +285,18 @@ Python Backend Engineer with **3.4+ years of experience** building scalable Pyth
 
 ---
 
+# 📚 Publication
+
+- [**Crop Protection Against Birds Using Deep Learning and IoT**](https://www.irjet.net/archives/V10/i4/IRJET-V10I4176.pdf), IRJET (International Research Journal of Engineering and Technology), Vol. 10, Issue 4, April 2023.
+
+---
+
 # 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Akash8356&show_icons=true&theme=github_dark&hide_border=true" width="48%"/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akash8356&theme=github-dark&hide_border=true" width="48%"/>
+  <img src="https://streak-stats.demolab.com/?user=Akash8356&theme=github-dark&hide_border=true" width="48%"/>
 </p>
 
 <p align="center">
@@ -272,18 +321,24 @@ Python Backend Engineer with **3.4+ years of experience** building scalable Pyth
 
 # 📫 Let's Connect
 
+🌐 **Portfolio:** https://akash8356.github.io/akash-portfolio/
+
 📧 **Email:** **akash.p8869@gmail.com**
 
-💼 **LinkedIn:** https://www.linkedin.com/in/akash-prajapati-878803210/
+📞 **Phone:** +91 83568 86969
 
-📄 **Resume:** [https://docs.google.com/document/d/1TGYbYLCieU42-mldJk0_ROr0ZZ-8T44A/edit](https://docs.google.com/document/d/1TGYbYLCieU42-mldJk0_ROr0ZZ-8T44A/edit)
+💼 **LinkedIn:** https://www.linkedin.com/in/akash-prajapati-backend-ai/
+
+💻 **GitHub:** https://github.com/Akash8356
+
+📄 **Resumes:** [GenAI](https://drive.google.com/file/d/1F6QsqxMAaiInWliKZNlPY0R_gu_2Szvy/view) · [Python Backend](https://drive.google.com/file/d/1BZ0iarP9swAqFAJ_0omL1w3C2dHDfXKQ/view) · [Applied AI](https://drive.google.com/file/d/1ievb6ldk_XerWF-IDF32AlFWpc6Go-4P/view)
 
 💻 **LeetCode:** https://leetcode.com/7faxlgxudd
 
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Akash8356&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=Akash8356&label=Profile%20Views&color=6366F1&style=flat"/>
 </p>
 
 <p align="center">
@@ -291,5 +346,5 @@ Python Backend Engineer with **3.4+ years of experience** building scalable Pyth
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E2038,100:4A78C4&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:0F172A&height=120&section=footer"/>
 </p>
