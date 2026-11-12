@@ -33,7 +33,7 @@ Building scalable backend systems and AI-powered products for enterprise Automot
   <a href="mailto:akash.p8869@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://akash8356.github.io/akash-portfolio/#resumes">
+  <a href="https://akash8356.github.io/akash-portfolio/#resume">
     <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white"/>
   </a>
   <a href="https://akash8356.github.io/akash-portfolio/">
@@ -323,6 +323,8 @@ Aug 2019 – Jun 2023 · **CGPA: 8.88/10**
 
 🌐 **Portfolio:** https://akash8356.github.io/akash-portfolio/
 
+📄 **Resume:** https://akash8356.github.io/akash-portfolio/#resume
+
 📧 **Email:** **akash.p8869@gmail.com**
 
 📞 **Phone:** +91 83568 86969
@@ -330,8 +332,6 @@ Aug 2019 – Jun 2023 · **CGPA: 8.88/10**
 💼 **LinkedIn:** https://www.linkedin.com/in/akash-prajapati-backend-ai/
 
 💻 **GitHub:** https://github.com/Akash8356
-
-📄 **Resumes:** [GenAI](https://drive.google.com/file/d/1F6QsqxMAaiInWliKZNlPY0R_gu_2Szvy/view) · [Python Backend](https://drive.google.com/file/d/1BZ0iarP9swAqFAJ_0omL1w3C2dHDfXKQ/view) · [Applied AI](https://drive.google.com/file/d/1ievb6ldk_XerWF-IDF32AlFWpc6Go-4P/view)
 
 💻 **LeetCode:** https://leetcode.com/7faxlgxudd
 
