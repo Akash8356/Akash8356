@@ -60,7 +60,7 @@ Building scalable backend systems and AI-powered products for enterprise Automot
 
 Welcome to my corner of GitHub! I'm Akash, a **Python backend engineer** from Mumbai with **3.4+ years** of experience building production systems for enterprise automotive and e-commerce platforms.
 
-Lately I've been pairing that backend foundation with **LLMs**, building a Hindi voice-enabled AI assistant, image &amp; text product search, and AI-assisted code analysis. I work directly with clients to understand what they need, build it, ship it to production, and monitor it afterwards. If you're building something ambitious, I'd love to talk.
+Lately I've been pairing that backend foundation with **LLMs**, building a voice-enabled AI assistant, image &amp; text product search, and AI-assisted code analysis. I work directly with clients to understand what they need, build it, ship it to production, and monitor it afterwards. If you're building something ambitious, I'd love to talk.
 
 > [!NOTE]
 > 🔭 **Open to Python Backend / Applied AI / GenAI Engineer roles.** Reach me at **akash.p8869@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/akash-prajapati-backend-ai/).
@@ -122,11 +122,11 @@ Python Backend Engineer with **3.4+ years of experience** developing scalable ba
 |---|---|---|
 | 🗣️ **Voice-Enabled RAG Assistant** | Applied AI · RAG | End-to-end RAG + LangGraph; ~5,000 test cases at ~87% |
 | 🔎 **Image &amp; Text Smart Search** | Applied AI · Search | Separate image/text embedding pipelines; top-5 results |
-| 🛒 **Commercial Vehicle E-Commerce** | Backend · E-Commerce | 40+ REST APIs; 1,000+ orders/day |
-| 🛍️ **Passenger Vehicle E-Commerce** | Backend · Auth | Keycloak/JWT/OAuth 2.0 |
-| 🚛 **IoT Fleet Management** | Backend · IoT | ~18-microservice platform; 20–30% perf gain |
+| 🛒 **Commercial Vehicle Spare Parts E-Commerce** | Backend · E-Commerce | 40+ REST APIs; 1,000+ orders/day |
+| 🛍️ **Passenger Vehicle Spare Parts E-Commerce** | Backend · Auth | Keycloak/JWT/OAuth 2.0 |
+| 🚛 **IoT Fleet Management Platform** | Backend · IoT | ~18-microservice platform; 20–30% perf gain |
 | 🏭 **Quality Management System** | Backend · Manufacturing | 50+ REST APIs + Kafka consumer |
-| 🛡️ **Git Security Analysis (AI)** | Applied AI · DevSecOps | Independent build; GitHub API + OpenAI workflows |
+| 🛡️ **AI-Assisted Code &amp; Security Analysis** | Applied AI · DevSecOps | Independent build; GitHub API + OpenAI workflows |
 
 > Full details with all 25 bullet points appear under [Professional Experience](#-professional-experience).
 
@@ -136,7 +136,7 @@ Python Backend Engineer with **3.4+ years of experience** developing scalable ba
 
 - 🏅 **[Shining Star Award](https://lnkd.in/p/dYPYi_Pu)** for outstanding technical contributions.
 - ⭐ **Bar Raiser**, recognized for problem-solving, technical guidance, and supporting team members.
-- 🗣️ Built a Hindi voice-enabled AI assistant evaluated across ~5,000 test cases (~87% average score).
+- 🗣️ Built a voice-enabled AI assistant evaluated across ~5,000 test cases (~87% average score).
 - 🔎 Developed Smart Search using separate image and text embedding pipelines with vector similarity.
 - 🔄 Built asynchronous processing pipelines using **Celery + Redis** and **Kafka**.
 - 🔐 Implemented secure authentication using **Keycloak, JWT &amp; OAuth 2.0**.
@@ -149,7 +149,7 @@ Python Backend Engineer with **3.4+ years of experience** developing scalable ba
 ## Vishleshan Software Solutions Pvt. Ltd. — Software Developer
 **25 Nov 2025 – 24 Sep 2026** · Mumbai, India
 
-### 🛒 Commercial Vehicle Spare Parts E-Commerce
+### 🛒 Commercial Vehicle Spare Parts E-Commerce Project
 
 - Developed **40+ REST APIs** using Python, Django, and DRF for core e-commerce workflows on a platform handling **1,000+ orders daily**.
 - Implemented **Smart Search** using **separate image and text embedding pipelines**, enabling product discovery through images, part numbers, names, categories, and voice queries, with **top-5 similarity-based results**.
@@ -158,14 +158,14 @@ Python Backend Engineer with **3.4+ years of experience** developing scalable ba
 - Built **asynchronous report and export workflows** using Celery and Redis, integrating **AWS S3** for file storage and secure presigned downloads.
 - Developed **DSR/MSR (Field Representative)** business workflows and integrated **Shiprocket** for shipment creation and tracking, and **SAP Grow** with internal backend services.
 
-### 🗣️ Hindi Voice-Enabled AI Assistant
+### 🗣️ Voice-Enabled RAG AI Assistant Project
 
 - Developed backend APIs and an end-to-end **RAG pipeline** using Python and Django to deliver context-grounded responses from a product knowledge base.
 - Implemented **document processing, recursive chunking (500 words per chunk, 20-word overlap), Sentence Transformers embeddings, and ChromaDB vector storage** for approximately **100–500 knowledge-base items**.
 - Implemented **semantic retrieval using cosine similarity and a dynamic threshold**, orchestrating retrieval and response generation through **LangGraph workflows** with conditional routing, query rephrasing, and fallback handling; integrated **Whisper, GPT-4, and ElevenLabs** for speech-to-text, response generation, and text-to-speech.
 - Implemented **LLM safety controls** including **PII redaction, structured output validation, and prompt injection detection**; integrated **LangSmith** for execution tracing, debugging, and monitoring workflow latency and token usage. Evaluated response quality across **~5,000 test cases** using expected answers and LLM-based evaluation, achieving an average score of **87%**.
 
-### 🛍️ Passenger Vehicle Spare Parts E-Commerce
+### 🛍️ Passenger Vehicle Spare Parts E-Commerce Project
 
 - Integrated **Keycloak** authentication APIs for login and token-generation workflows using **JWT** and **OAuth 2.0**.
 - Implemented **CAPTCHA validation** and supported backend maintenance and production issue resolution.
@@ -175,7 +175,7 @@ Python Backend Engineer with **3.4+ years of experience** developing scalable ba
 ## Sankey Solutions — Solution Analyst
 **1 Jun 2023 – 14 Nov 2025** · Thane, Maharashtra, India
 
-### 🚛 IoT-Based Fleet Management Platform
+### 🚛 IoT Fleet Management Platform Project
 
 - Developed backend features across **vehicle, wrapper, subscription, and payment** services within an **approximately 18-microservice fleet management platform** using Python, Django, and PostgreSQL.
 - Built the **Vehicle Day-wise Tracker backend end-to-end** — processing historical GPS coordinates, calculating distance using the **Haversine formula**, identifying trips and stops, and preparing route data for Google Maps visualization.
@@ -185,13 +185,13 @@ Python Backend Engineer with **3.4+ years of experience** developing scalable ba
 - Implemented **historical telemetry synchronization** through **Sahaj APIs** using 30-minute cron scheduling, checkpoint-based incremental fetching, backlog recovery, and **PostgreSQL upserts** keyed by VIN and timestamp.
 - Integrated **CCAvenue payment gateway** with request encryption, response decryption, payment callbacks, status updates, subscription synchronization, and Redis cache updates; also developed **vehicle subscription workflows** for plan purchases, upgrades, renewals, and expiry.
 
-### 🏭 Intelligent Quality Management System
+### 🏭 Quality Management System Project
 
 - Developed the **User Portal backend** using Python, Django, and PostgreSQL — database design and implementation of **50+ REST APIs** to digitize paper-based vehicle assembly-line quality inspections.
 - Implemented **Quality Maker and Quality Checker** workflows for inspection recording, defect reporting, corrective actions, and verification across assembly-line operations.
 - Developed an **Apache Kafka consumer** to receive VIN and vehicle information from manufacturing sites and persist incoming data in PostgreSQL; integrated **Swagger/OpenAPI** documentation for API testing and frontend coordination.
 
-### 🛡️ AI-Assisted Git Repository Change &amp; Security Analysis
+### 🛡️ AI-Assisted Code &amp; Security Analysis Project
 
 - **Independently developed** an AI-assisted code analysis solution integrating **GitHub APIs** to retrieve commit differences and surrounding code context.
 - Implemented **separate OpenAI API workflows** for code-change summarization and potential security vulnerability detection.
